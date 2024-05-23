@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there, I'm Paul Fedory 👋</h1>
+
+- 🔭 I’m currently looking for my next project!
+- 🌱 I’m currently learning more about Elixir
+- 💬 Ask me about Ruby, Elixir, React, Typescript
+- 📫 How to reach me: @paulfedory on all the socials
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love immersive theatre and TV
+- 🌏 I live in Windsor, Ontario, Canada
 
 <!--
 **paulfedory/paulfedory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
